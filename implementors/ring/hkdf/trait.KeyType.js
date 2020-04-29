@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["actix_http"] = [{"text":"impl&lt;'_&gt; <a class=\"trait\" href=\"https://briansmith.org/rustdoc/ring/hkdf/trait.KeyType.html\" title=\"trait ring::hkdf::KeyType\">KeyType</a> for &amp;'_ <a class=\"struct\" href=\"actix_http/cookie/struct.Key.html\" title=\"struct actix_http::cookie::Key\">Key</a>","synthetic":false,"types":["actix_http::cookie::secure::key::Key"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
